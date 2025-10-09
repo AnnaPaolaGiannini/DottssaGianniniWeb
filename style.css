@@ -289,7 +289,7 @@
 		}
 
 		.bee-row-2 {
-			background-color: #02473c;
+			background-color: #025555;
 			background-repeat: no-repeat;
 			background-size: cover;
 		}
@@ -900,7 +900,7 @@
 			direction: ltr;
 			font-family: Oswald, Arial, "Helvetica Neue", Helvetica, sans-serif;
 			font-size: 28px;
-			font-weight: 700;
+			font-weight: 800;
 			letter-spacing: normal;
 			line-height: 120%;
 			text-align: left
@@ -1094,32 +1094,28 @@
 			padding: 5px 25px;
 			width: 100%
 		}
-/* Add a black background color to the top navigation */
-       .topnav {
-  background-color: #333333;
-  overflow: hidden;
+
+		.topnav {
+  background-color: #025555;
+  overflow:hidden;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  background-color: #02473c;
+  background-color: #025555;
   color: #eeeeee;
   text-align: center;
-  padding: 14px 16px;
+  padding: 15px 10px;
   text-decoration: none;
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 800;
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #eeeeee;
-  color: #02473c;
+  color: #025555;
 }
 
-/* Add a color to the active/current link */
-.topnav a.active {
-  background-color: #eeeeee;
-  color: #02473c;
-}
+
